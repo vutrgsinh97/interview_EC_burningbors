@@ -1,0 +1,7 @@
+.btn {
+    @apply border-red-500;
+
+    &-primary {
+        @apply bg-cyan-300;
+    }
+}
